@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "\\SalesTransaction.Application.DataAccess",
+    "\\SalesTransaction.Application.Model",
+    "\\SalesTransaction.Application.Web",
+    "\\SalesTransaction.Application.WebAPI"
+  ],
+  "PreviewInSolutionExplorer": false
+}
