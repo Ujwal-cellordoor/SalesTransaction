@@ -1,0 +1,15 @@
+D:\SalesTransaction\SalesTransaction.Solution\SalesTransaction.Application.DataAccess\bin\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.deps.json
+D:\SalesTransaction\SalesTransaction.Solution\SalesTransaction.Application.DataAccess\bin\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.dll
+D:\SalesTransaction\SalesTransaction.Solution\SalesTransaction.Application.DataAccess\obj\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.csprojAssemblyReference.cache
+D:\SalesTransaction\SalesTransaction.Solution\SalesTransaction.Application.DataAccess\obj\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.AssemblyInfoInputs.cache
+D:\SalesTransaction\SalesTransaction.Solution\SalesTransaction.Application.DataAccess\obj\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.AssemblyInfo.cs
+D:\SalesTransaction\SalesTransaction.Solution\SalesTransaction.Application.DataAccess\bin\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.runtimeconfig.json
+D:\SalesTransaction\SalesTransaction.Solution\SalesTransaction.Application.DataAccess\bin\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.runtimeconfig.dev.json
+D:\SalesTransaction\SalesTransaction.Solution\SalesTransaction.Application.DataAccess\bin\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.pdb
+D:\SalesTransaction\SalesTransaction.Solution\SalesTransaction.Application.DataAccess\bin\Debug\netcoreapp3.1\SalesTransaction.Application.Models.dll
+D:\SalesTransaction\SalesTransaction.Solution\SalesTransaction.Application.DataAccess\bin\Debug\netcoreapp3.1\SalesTransaction.Application.Models.pdb
+D:\SalesTransaction\SalesTransaction.Solution\SalesTransaction.Application.DataAccess\obj\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.csproj.CoreCompileInputs.cache
+D:\SalesTransaction\SalesTransaction.Solution\SalesTransaction.Application.DataAccess\obj\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.csproj.CopyComplete
+D:\SalesTransaction\SalesTransaction.Solution\SalesTransaction.Application.DataAccess\obj\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.dll
+D:\SalesTransaction\SalesTransaction.Solution\SalesTransaction.Application.DataAccess\obj\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.pdb
+D:\SalesTransaction\SalesTransaction.Solution\SalesTransaction.Application.DataAccess\obj\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.genruntimeconfig.cache

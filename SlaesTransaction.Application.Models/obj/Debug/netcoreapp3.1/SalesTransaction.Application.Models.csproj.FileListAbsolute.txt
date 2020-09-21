@@ -1,0 +1,9 @@
+D:\SalesTransaction\SalesTransaction.Solution\SlaesTransaction.Application.Models\bin\Debug\netcoreapp3.1\SalesTransaction.Application.Models.deps.json
+D:\SalesTransaction\SalesTransaction.Solution\SlaesTransaction.Application.Models\bin\Debug\netcoreapp3.1\SalesTransaction.Application.Models.dll
+D:\SalesTransaction\SalesTransaction.Solution\SlaesTransaction.Application.Models\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Models.csprojAssemblyReference.cache
+D:\SalesTransaction\SalesTransaction.Solution\SlaesTransaction.Application.Models\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Models.AssemblyInfoInputs.cache
+D:\SalesTransaction\SalesTransaction.Solution\SlaesTransaction.Application.Models\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Models.AssemblyInfo.cs
+D:\SalesTransaction\SalesTransaction.Solution\SlaesTransaction.Application.Models\bin\Debug\netcoreapp3.1\SalesTransaction.Application.Models.pdb
+D:\SalesTransaction\SalesTransaction.Solution\SlaesTransaction.Application.Models\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Models.csproj.CoreCompileInputs.cache
+D:\SalesTransaction\SalesTransaction.Solution\SlaesTransaction.Application.Models\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Models.dll
+D:\SalesTransaction\SalesTransaction.Solution\SlaesTransaction.Application.Models\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Models.pdb
