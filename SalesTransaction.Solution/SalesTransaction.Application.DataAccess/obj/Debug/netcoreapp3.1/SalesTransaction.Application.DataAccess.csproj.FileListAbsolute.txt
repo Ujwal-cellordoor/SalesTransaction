@@ -1,4 +1,0 @@
-C:\SalesTransaction\SalesTransaction.Solution\SalesTransaction.Application.DataAccess\obj\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.AssemblyInfoInputs.cache
-C:\SalesTransaction\SalesTransaction.Solution\SalesTransaction.Application.DataAccess\obj\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.AssemblyInfo.cs
-C:\SalesTransaction\SalesTransaction.Solution\SalesTransaction.Application.DataAccess\obj\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.csproj.CoreCompileInputs.cache
-C:\SalesTransaction\SalesTransaction.Solution\SalesTransaction.Application.DataAccess\obj\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.csprojAssemblyReference.cache
